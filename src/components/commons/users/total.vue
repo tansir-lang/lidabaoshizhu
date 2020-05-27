@@ -26,6 +26,7 @@ export default {
         // }
     },
     mounted(){
+        //.dd.d.d.d.
         //qqqwww
 
         // let urlId = this.$route.query.id;
