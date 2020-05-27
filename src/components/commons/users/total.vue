@@ -27,6 +27,7 @@ export default {
     },
     mounted(){
         //qqqwww
+
         // let urlId = this.$route.query.id;
         // // console.log(urlId);
         // // // console.log(this.$nextTick(function(){
