@@ -26,7 +26,7 @@ export default {
         // }
     },
     mounted(){
-        //ainiyo
+        //ainiyo,
         // let urlId = this.$route.query.id;
         // // console.log(urlId);
         // // // console.log(this.$nextTick(function(){
